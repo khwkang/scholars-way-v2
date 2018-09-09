@@ -19,6 +19,7 @@
     "gatsby-plugin-offline": "^1.0.18",
     "gatsby-plugin-react-helmet": "^3.0.0-beta.4",
     "gatsby-plugin-sharp": "^2.0.0-beta.5",
+    "gatsby-plugin-svgr": "next",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-source-prismic": "^2.0.0-alpha.2",
     "gatsby-transformer-sharp": "^2.1.1-beta.4",
